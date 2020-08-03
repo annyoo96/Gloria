@@ -125,7 +125,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.65em;
+		font-size: 1.8em;
 		font-weight: 400;
 		letter-spacing: 4px;
 		margin: 0 0 1.5em 0;
@@ -254,6 +254,9 @@ input, select, textarea {
 		display:table;
 		table-layout: fixed; /*Optional*/
     	border-spacing: 10px; /*Optional*/
+    	background: #e4e4e4;
+		color: #e4e4e4;
+
         
     }
     .baby
@@ -1759,7 +1762,7 @@ input, select, textarea {
 		}
 
 		table thead {
-			background: #878787;
+			background: #ed786a;
 			color: #fff;
 			font-weight: 400;
 			text-transform: uppercase;
@@ -1770,7 +1773,7 @@ input, select, textarea {
 		}
 
 		table tfoot {
-			background: #F0F0F0;
+			background: #ed786a;
 			border-top: solid 2px #E5E5E5;
 		}
 
@@ -1861,8 +1864,8 @@ input, select, textarea {
 	}
 
 	.box.excerpt .date {
-		background: #878787;
-		color: #fff;
+		background: #ed786a;
+		color: white;
 		font-weight: 400;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -2160,7 +2163,7 @@ input, select, textarea {
 	#content > section,
 	#content > article {
 		border-top: solid 2px #e5e5e5;
-		box-shadow: inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #e5e5e5;
+		box-shadow: inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #ed786a;
 		margin: 5em 0 0 0;
 		padding: 5em 0 0 0;
 	}
